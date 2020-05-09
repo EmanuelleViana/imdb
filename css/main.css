@@ -317,6 +317,24 @@ figure h5 {
 	color: rgb(189, 59, 59);
 }
 
+footer {
+    padding: 40px 90px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.social-networks i {
+    margin-top: 20px;
+    margin-left: 10px;
+    font-size: 30px;
+    color: rgb(204, 204, 204);
+
+}
+
+.social-networks i:hover {
+    color: #e4bb23
+}
+
 @media only screen and (max-width: 800px) {
     .title h1 {
         font-size: 2em;

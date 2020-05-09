@@ -1,2 +1,5 @@
 # imdb
-Pure Html/CSS page 
+Pure HTML/CSS page 
+Static website
+Idea by AceleraDev
+Code by Emanuelle Viana
