@@ -4,4 +4,4 @@
 - Code by Emanuelle Viana
 
 # Preview
-https://emanuelleviana.github.io/imdb/index.html
+https://imdbmovies.netlify.app/
